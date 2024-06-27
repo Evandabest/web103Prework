@@ -4,7 +4,6 @@ import { dataStructure } from "@/app/Add/actions"
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { redirect } from "next/navigation";
-import { time } from "console"
 
 
 const details = async ({params : {id}} : {params: {id: string}}) => {

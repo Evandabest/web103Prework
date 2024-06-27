@@ -21,7 +21,7 @@ export default async function Home() {
   return (
     <>
     {
-      <div className="justify-evenly items-center flex flex-wrap mx-20">
+      <div className="justify-center items-center flex space-x-24 flex-wrap mx-10">
         {
           data?.map((creator: any) => (
             <CreatorCard creator={creator} />

@@ -20,13 +20,15 @@ const Header = () => {
             alt="Earth at night from space"
         />
         <div className="absolute top-0 left-0 right-0 bottom-24 flex justify-center items-center">
-            <h1 className="text-7xl font-bold text-white text-center">CreatorVerse</h1>
+            <h1 className="text-8xl font-bold text-white text-center">CreatorVerse</h1>
         </div>
-        <div className="absolute top-30 left-0 right-1/2 bottom-24 flex justify-center items-center">
-            <Button onClick={goToHome} className="p-8 text-xl">View all creators</Button>
-        </div>
-        <div className="absolute top-30 left-1/2 right-0 bottom-24 flex justify-center items-center">
-            <Button onClick={goToAdd} className="p-8 text-xl">Add a creator</Button>
+        <div className="flex flex-col items-center justify-center mt-10">
+            <div className="absolute top-30 left-1/3 bottom-24 flex justify-center items-center">
+                <Button onClick={goToHome} className="p-8 text-xl">View all creators</Button>
+            </div>
+            <div className="absolute top-30 right-1/3 bottom-24 flex justify-center items-center">
+                <Button onClick={goToAdd} className="p-8 text-xl">Add a creator</Button>
+            </div>
         </div>
     </div>
       </>

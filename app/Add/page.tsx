@@ -7,7 +7,7 @@ import { handleSubmit } from "./actions";
 const add = () => {
     return (
         <>
-            <form className="flex flex-col items-center justify-center mt-10 space-y-10">
+            <form className="flex flex-col items-center justify-center mb-10 mt-10 space-y-10">
                 <Input name="name" className="w-96" placeholder="Creator Name" />
                 <Input name="image" className="w-96" placeholder="Image Link" />
                 <Input name="description" className="w-96" placeholder="Description" />
