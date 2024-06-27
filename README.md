@@ -1,10 +1,10 @@
-# WEB103 Prework - * CreatorVerse*
+# WEB103 Prework - **CreatorVerse**
 
-Submitted by: ** Evan Haque**
+Submitted by: **Evan Haque**
 
-About this web app: ** A place where you can find big and upcoming creators to support them**
+About this web app: **A place where you can find big and upcoming creators to support them**
 
-Time spent: ** 4** hours
+Time spent: **4** hours
 
 ## Required Features
 
