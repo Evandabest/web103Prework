@@ -1,6 +1,6 @@
 import { createClient } from "@/utils/supabase/server";
 import CreatorCard from "@/components/CreatorCard";
-import { dataStructure } from "./Add/actions";
+import { dataStructure } from "../Add/actions";
 
 export default async function Home() {
   const supabase = createClient()
