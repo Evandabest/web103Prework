@@ -1,10 +1,10 @@
-# WEB103 Prework - *👉🏿 CreatorVerse*
+# WEB103 Prework - * CreatorVerse*
 
-Submitted by: **👉🏿 Evan Haque**
+Submitted by: ** Evan Haque**
 
-About this web app: **👉🏿 A place where you can find big and upcoming creators to support them**
+About this web app: ** A place where you can find big and upcoming creators to support them**
 
-Time spent: **👉🏿 4** hours
+Time spent: ** 4** hours
 
 ## Required Features
 
@@ -35,10 +35,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='public/Kapture 2024-06-27 at 12.32.41.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='public/Kapture 2024-06-27 at 12.32.41.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
+GIF created with Kap!
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -51,7 +51,7 @@ Describe any challenges encountered while building the app or any additional con
 
 ## License
 
-Copyright [👉🏿 2024] [👉🏿 Evan Haque]
+Copyright [2024] [Evan Haque]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
